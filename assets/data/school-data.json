@@ -1,0 +1,72 @@
+{
+  "name": "Greenwood International School",
+  "logo": "assets/images/logo.png",
+  "tagline": "Excellence in Education Since 1985",
+  "carousel": [
+    {
+      "title": "Welcome to Greenwood International School",
+      "description": "Nurturing young minds with world-class education and values that last a lifetime",
+      "image": "assets/images/carousel1.jpg"
+    },
+    {
+      "title": "State-of-the-Art Facilities",
+      "description": "Modern classrooms, advanced labs, and sports facilities designed for holistic development",
+      "image": "assets/images/carousel2.jpg"
+    },
+    {
+      "title": "Preparing Global Citizens",
+      "description": "Empowering students with 21st-century skills and international perspectives",
+      "image": "assets/images/carousel3.jpg"
+    }
+  ],
+  "about": {
+    "mission": "To provide exceptional education that nurtures intellectual curiosity, character development, and global citizenship.",
+    "vision": "To be a leading international school that transforms students into confident, creative, and compassionate leaders.",
+    "values": ["Excellence", "Integrity", "Innovation", "Inclusivity", "Service"],
+    "established": "1985",
+    "students": "2,500+",
+    "faculty": "200+",
+    "campuses": "3"
+  },
+  "academics": {
+    "programs": [
+      {
+        "name": "Primary School",
+        "grades": "K-5",
+        "description": "Foundation years focusing on core skills and creativity",
+        "image": "assets/images/primary.jpg"
+      },
+      {
+        "name": "Middle School",
+        "grades": "6-8",
+        "description": "Transition years with specialized subjects and leadership development",
+        "image": "assets/images/middle.jpg"
+      },
+      {
+        "name": "High School",
+        "grades": "9-12",
+        "description": "College preparation with AP courses and career guidance",
+        "image": "assets/images/high.jpg"
+      }
+    ],
+    "specialPrograms": [
+      "International Baccalaureate (IB)",
+      "Advanced Placement (AP)",
+      "STEM Excellence Program",
+      "Arts & Performance",
+      "Leadership Academy"
+    ]
+  },
+  "contact": {
+    "address": "123 Education Avenue, Academic City, AC 12345",
+    "phone": "+1 (555) 123-4567",
+    "email": "info@greenwoodschool.edu",
+    "website": "www.greenwoodschool.edu",
+    "socialMedia": {
+      "facebook": "https://facebook.com/greenwoodschool",
+      "twitter": "https://twitter.com/greenwoodschool",
+      "instagram": "https://instagram.com/greenwoodschool",
+      "linkedin": "https://linkedin.com/company/greenwoodschool"
+    }
+  }
+}

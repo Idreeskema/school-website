@@ -1,0 +1,52 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "title": "School Reopening Update",
+      "date": "2025-07-10",
+      "type": "important",
+      "content": "Classes resume on August 1st, 2025. Please review the updated academic calendar and safety protocols.",
+      "urgent": true
+    },
+    {
+      "id": 2,
+      "title": "New Online Learning Platform",
+      "date": "2025-07-08",
+      "type": "announcement",
+      "content": "We're excited to introduce our new LMS system. Training sessions for parents and students start July 15th.",
+      "urgent": false
+    },
+    {
+      "id": 3,
+      "title": "Uniform Policy Reminder",
+      "date": "2025-07-05",
+      "type": "reminder",
+      "content": "Please ensure all students have the correct uniform items before the new academic year begins.",
+      "urgent": false
+    },
+    {
+      "id": 4,
+      "title": "Bus Route Changes",
+      "date": "2025-07-03",
+      "type": "transport",
+      "content": "Several bus routes have been optimized. Check the transportation page for updated schedules.",
+      "urgent": true
+    },
+    {
+      "id": 5,
+      "title": "Summer Camp Registration",
+      "date": "2025-07-01",
+      "type": "activity",
+      "content": "Limited spots available for our summer enrichment programs. Register by July 20th.",
+      "urgent": false
+    },
+    {
+      "id": 6,
+      "title": "Health & Safety Protocols",
+      "date": "2025-06-28",
+      "type": "health",
+      "content": "Updated health guidelines for the upcoming academic year. All families must review and acknowledge.",
+      "urgent": true
+    }
+  ]
+}

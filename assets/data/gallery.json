@@ -1,0 +1,148 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "title": "Science Laboratory",
+      "description": "Students conducting experiments in our state-of-the-art science lab",
+      "category": "facilities",
+      "thumbnail": "assets/images/gallery/science-lab-thumb.jpg",
+      "fullSize": "assets/images/gallery/science-lab-full.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Annual Sports Day",
+      "description": "Students participating in the inter-house athletics competition",
+      "category": "events",
+      "thumbnail": "assets/images/gallery/sports-day-thumb.jpg",
+      "fullSize": "assets/images/gallery/sports-day-full.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Computer Lab Session",
+      "description": "Digital literacy and programming classes in our modern computer lab",
+      "category": "facilities",
+      "thumbnail": "assets/images/gallery/computer-lab-thumb.jpg",
+      "fullSize": "assets/images/gallery/computer-lab-full.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Art Exhibition",
+      "description": "Student artwork displayed at our annual art exhibition",
+      "category": "events",
+      "thumbnail": "assets/images/gallery/graduation-thumb.jpg",
+      "fullSize": "assets/images/gallery/graduation-full.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Library Study Hall",
+      "description": "Students studying in our well-equipped library with thousands of books",
+      "category": "facilities",
+      "thumbnail": "assets/images/gallery/library-thumb.jpg",
+      "fullSize": "assets/images/gallery/library-full.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Graduation Ceremony",
+      "description": "Celebrating our graduating class of 2024",
+      "category": "events",
+      "thumbnail": "assets/images/gallery/graduation-thumb.jpg",
+      "fullSize": "assets/images/gallery/graduation-full.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Music Performance",
+      "description": "Student orchestra performing at the annual concert",
+      "category": "activities",
+      "thumbnail": "assets/images/gallery/music-thumb.jpg",
+      "fullSize": "assets/images/gallery/music-full.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Chemistry Experiment",
+      "description": "Advanced chemistry students working on molecular experiments",
+      "category": "academics",
+      "thumbnail": "assets/images/gallery/chemistry-thumb.jpg",
+      "fullSize": "assets/images/gallery/chemistry-full.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Basketball Court",
+      "description": "Students playing basketball in our indoor sports complex",
+      "category": "facilities",
+      "thumbnail": "assets/images/gallery/basketball-thumb.jpg",
+      "fullSize": "assets/images/gallery/basketball-full.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Drama Club Performance",
+      "description": "Students performing in the school theater production",
+      "category": "activities",
+      "thumbnail": "assets/images/gallery/drama-thumb.jpg",
+      "fullSize": "assets/images/gallery/drama-full.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Mathematics Competition",
+      "description": "Students participating in the regional mathematics olympiad",
+      "category": "academics",
+      "thumbnail": "assets/images/gallery/math-competition-thumb.jpg",
+      "fullSize": "assets/images/gallery/math-competition-full.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Cultural Festival",
+      "description": "International students showcasing their cultural heritage",
+      "category": "events",
+      "thumbnail": "assets/images/gallery/cultural-festival-thumb.jpg",
+      "fullSize": "assets/images/gallery/cultural-festival-full.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Robotics Club",
+      "description": "Students building and programming robots in STEM club",
+      "category": "activities",
+      "thumbnail": "assets/images/gallery/robotics-thumb.jpg",
+      "fullSize": "assets/images/gallery/robotics-full.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Cafeteria",
+      "description": "Students enjoying healthy meals in our spacious cafeteria",
+      "category": "facilities",
+      "thumbnail": "assets/images/gallery/cafeteria-thumb.jpg",
+      "fullSize": "assets/images/gallery/cafeteria-full.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Biology Field Trip",
+      "description": "Students exploring marine biology during educational excursion",
+      "category": "academics",
+      "thumbnail": "assets/images/gallery/biology-trip-thumb.jpg",
+      "fullSize": "assets/images/gallery/biology-trip-full.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Student Council Meeting",
+      "description": "Student leaders discussing school improvement initiatives",
+      "category": "activities",
+      "thumbnail": "assets/images/gallery/student-council-thumb.jpg",
+      "fullSize": "assets/images/gallery/student-council-full.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Swimming Pool",
+      "description": "Students learning swimming in our Olympic-size pool",
+      "category": "facilities",
+      "thumbnail": "assets/images/gallery/swimming-thumb.jpg",
+      "fullSize": "assets/images/gallery/swimming-full.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Science Fair",
+      "description": "Students presenting innovative projects at the annual science fair",
+      "category": "events",
+      "thumbnail": "assets/images/gallery/science-fair-thumb.jpg",
+      "fullSize": "assets/images/gallery/science-fair-full.jpg"
+    }
+  ]
+}

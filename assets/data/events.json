@@ -1,0 +1,37 @@
+{
+  "events": [
+    {
+      "id": 4,
+      "title": "Sports Day Championship",
+      "date": "2025-09-05",
+      "time": "8:00 AM - 5:00 PM",
+      "location": "Athletic Complex",
+      "description": "Annual inter-house sports competition featuring track, field, and team events.",
+      "image": "assets/images/sports-day.jpg",
+      "category": "Sports",
+      "featured": true
+    },
+    {
+      "id": 5,
+      "title": "Drama Production: Romeo & Juliet",
+      "date": "2025-09-12",
+      "time": "7:00 PM",
+      "location": "School Theater",
+      "description": "High school drama club presents Shakespeare's timeless classic.",
+      "image": "assets/images/drama.jpg",
+      "category": "Arts",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "title": "College Fair",
+      "date": "2025-09-20",
+      "time": "1:00 PM - 5:00 PM",
+      "location": "Gymnasium",
+      "description": "Representatives from top universities worldwide meet with prospective students.",
+      "image": "assets/images/college-fair.jpg",
+      "category": "Academic",
+      "featured": true
+    }
+  ]
+}

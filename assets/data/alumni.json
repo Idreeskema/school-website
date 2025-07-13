@@ -1,0 +1,70 @@
+{
+  "alumni": [
+    {
+      "id": 1,
+      "name": "Dr. Sarah Johnson",
+      "graduationYear": "2010",
+      "currentPosition": "Chief Medical Officer, City General Hospital",
+      "image": "assets/images/alumni1.jpg",
+      "achievement": "Leading COVID-19 response team and pioneering telemedicine initiatives",
+      "quote": "Greenwood taught me to think critically and serve others. Those lessons guide me every day.",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Marcus Chen",
+      "graduationYear": "2015",
+      "currentPosition": "Software Engineer, Google",
+      "image": "assets/images/alumni2.jpg",
+      "achievement": "Developed AI algorithms for sustainable energy solutions",
+      "quote": "The innovative spirit at Greenwood shaped my passion for technology and problem-solving.",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "name": "Priya Patel",
+      "graduationYear": "2008",
+      "currentPosition": "Environmental Lawyer & Activist",
+      "image": "assets/images/alumni1.jpg",
+      "achievement": "Won landmark case protecting coastal wetlands",
+      "quote": "Greenwood's values of service and integrity drive my commitment to environmental justice.",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "name": "James Wilson",
+      "graduationYear": "2012",
+      "currentPosition": "Broadway Actor & Director",
+      "image": "assets/images/alumni4.jpg",
+      "achievement": "Tony Award nominee for Best Actor in a Musical",
+      "quote": "The arts program at Greenwood gave me the foundation to pursue my dreams on stage.",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "name": "Dr. Fatima Al-Rashid",
+      "graduationYear": "2009",
+      "currentPosition": "NASA Aerospace Engineer",
+      "image": "assets/images/alumni5.jpg",
+      "achievement": "Lead engineer on Mars rover mission",
+      "quote": "Greenwood's STEM program launched my journey to the stars.",
+      "featured": true
+    },
+    {
+      "id": 6,
+      "name": "Robert Kim",
+      "graduationYear": "2011",
+      "currentPosition": "Social Entrepreneur",
+      "image": "assets/images/alumni6.jpg",
+      "achievement": "Founded nonprofit providing education access to underserved communities",
+      "quote": "Greenwood showed me that education is the greatest gift we can share with others.",
+      "featured": false
+    }
+  ],
+  "statistics": {
+    "totalAlumni": 15000,
+    "countriesRepresented": 45,
+    "collegeAcceptanceRate": 98,
+    "scholarshipRecipients": 75
+  }
+}
